@@ -21,7 +21,7 @@ a, b = regressao_linear(
     serie_x=x, 
     serie_y=y
     )
-print('Intecepto:          ', a)
+print('Intercepto:          ', a)
 print('Coeficiente angular:', b)
 print(f'Fórmula da reta (y = A + B * x):')
 print(f'                 y = {a} + {b} * x')
@@ -29,7 +29,7 @@ print(f'                 y = {a} + {b} * x')
 
 ## Resultado:
 
-``Intecepto:           2.6666666666666665``
+``Intercepto:           2.6666666666666665``
 
 ``Coeficiente angular: 2.0``
 
