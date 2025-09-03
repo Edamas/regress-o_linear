@@ -44,7 +44,7 @@ def main():
       serie_y=y
       )
   
-  print('Intecepto:          ', a)
+  print('Intercepto:          ', a)
   print('Coeficiente angular:', b)
   print(f'Fórmula da reta (y = A + B * x):')
   print(f'                 y = {a} + {b} * x') 
